@@ -2,7 +2,7 @@
 
 This repository contains the tutorial slides for **FINA2205 Practical Finance Analytics** in **Semester 1, 2026**.
 
-The slides are shared to support students in my tutorial classes with weekly review, revision, and class preparation. They should be used together with the official course materials on LMS.
+The slides are shared to support students in my tutorial classes with weekly review, revision, and test preparation. They should be used together with the official course materials on LMS.
 
 ## Please note
 
