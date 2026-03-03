@@ -12,5 +12,3 @@ The slides are shared to support students in my tutorial classes with weekly rev
 * Please do not redistribute these files without permission
 
 **Zirui Song**
-
-UWA Business School
