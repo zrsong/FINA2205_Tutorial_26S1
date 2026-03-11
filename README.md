@@ -7,6 +7,7 @@ The slides are shared to support students in my tutorial classes with weekly rev
 ## Please note
 
 * These slides are supplementary materials only
+* Slides will be released each Wednesday
 * Course announcements and assessment details should always be checked on the official course site
 * Materials may be updated during the semester
 * Please do not redistribute these files without permission
